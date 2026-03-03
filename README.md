@@ -52,3 +52,4 @@ Phase 4. 자동화 서비스 구축 (Service Architecture) - 진행 예정
 
 ## 학습 노트 (TIL)
 - [Day 1: Pandas 기초 (iloc, rolling) 및 시각화](docs/01_pandas_개념정리.md)
+- [Day 2: 네이버 경제 뉴스 크롤링 및 리팩토링](docs/02_뉴스_크롤링_및_리팩토링.md)
